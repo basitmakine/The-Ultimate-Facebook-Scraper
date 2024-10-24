@@ -1,6 +1,6 @@
 # Facebook Scraper
 
-A simple Python wrapper for the Facebook Scraper API available on [RapidAPI](https://rapidapi.com/taskagi-2-taskagi-2-default/api/facebook-scraper4/). This tool allows you to interact with Facebook Marketplace and Page data easily.
+A simple Python wrapper for the [Facebook Scraper API](https://rapidapi.com/taskagi-2-taskagi-2-default/api/facebook-scraper4/) available on RapidAPI. This tool allows you to interact with Facebook Marketplace and Page data easily.
 
 ## Features
 
